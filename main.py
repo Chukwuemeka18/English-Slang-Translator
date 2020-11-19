@@ -1,6 +1,7 @@
 #Source(s): 
 #https://realpython.com/python-csv/
 #https://www.studyusa.com/en/a/2029/american-slang-words-you-need-to-know-in-2020
+#https://www.fluentu.com/blog/english/american-english-slang-words-esl/
 
 import csv
 
